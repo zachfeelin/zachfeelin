@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zachphelan45
+- 🩷 I love watching Barbie 
+- ☕️ I’m currently learning Java
