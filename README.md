@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zachfeelin
-- 💖 I love watching Barbie 
--  I’m currently learning Swift
-- 📱 I'm planning on making iOS apps for the App Store
+- 💖 I love watching movies
+- ☕️ I'm currently learning Java.
+- 📱 In the future, I'm planning on making iOS apps for the App Store
