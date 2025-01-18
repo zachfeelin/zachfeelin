@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @zachfeelin
-- 💖 I love watching movies
-- ☕️ I'm currently learning Java.
-- 📱 In the future, I'm planning on making iOS apps for the App Store
+hi im zach and im feelin good :)
